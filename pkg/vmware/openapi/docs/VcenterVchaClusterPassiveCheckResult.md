@@ -1,0 +1,72 @@
+# VcenterVchaClusterPassiveCheckResult
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Warnings** | [**[]VapiStdLocalizableMessage**](VapiStdLocalizableMessage.md) | A list of problems which may require attention, but which are not fatal. | 
+**Errors** | [**[]VapiStdLocalizableMessage**](VapiStdLocalizableMessage.md) | A list of problems which are fatal to the operation and the operation will fail. | 
+
+## Methods
+
+### NewVcenterVchaClusterPassiveCheckResult
+
+`func NewVcenterVchaClusterPassiveCheckResult(warnings []VapiStdLocalizableMessage, errors []VapiStdLocalizableMessage, ) *VcenterVchaClusterPassiveCheckResult`
+
+NewVcenterVchaClusterPassiveCheckResult instantiates a new VcenterVchaClusterPassiveCheckResult object
+This constructor will assign default values to properties that have it defined,
+and makes sure properties required by API are set, but the set of arguments
+will change when the set of required properties is changed
+
+### NewVcenterVchaClusterPassiveCheckResultWithDefaults
+
+`func NewVcenterVchaClusterPassiveCheckResultWithDefaults() *VcenterVchaClusterPassiveCheckResult`
+
+NewVcenterVchaClusterPassiveCheckResultWithDefaults instantiates a new VcenterVchaClusterPassiveCheckResult object
+This constructor will only assign default values to properties that have it defined,
+but it doesn't guarantee that properties required by API are set
+
+### GetWarnings
+
+`func (o *VcenterVchaClusterPassiveCheckResult) GetWarnings() []VapiStdLocalizableMessage`
+
+GetWarnings returns the Warnings field if non-nil, zero value otherwise.
+
+### GetWarningsOk
+
+`func (o *VcenterVchaClusterPassiveCheckResult) GetWarningsOk() (*[]VapiStdLocalizableMessage, bool)`
+
+GetWarningsOk returns a tuple with the Warnings field if it's non-nil, zero value otherwise
+and a boolean to check if the value has been set.
+
+### SetWarnings
+
+`func (o *VcenterVchaClusterPassiveCheckResult) SetWarnings(v []VapiStdLocalizableMessage)`
+
+SetWarnings sets Warnings field to given value.
+
+
+### GetErrors
+
+`func (o *VcenterVchaClusterPassiveCheckResult) GetErrors() []VapiStdLocalizableMessage`
+
+GetErrors returns the Errors field if non-nil, zero value otherwise.
+
+### GetErrorsOk
+
+`func (o *VcenterVchaClusterPassiveCheckResult) GetErrorsOk() (*[]VapiStdLocalizableMessage, bool)`
+
+GetErrorsOk returns a tuple with the Errors field if it's non-nil, zero value otherwise
+and a boolean to check if the value has been set.
+
+### SetErrors
+
+`func (o *VcenterVchaClusterPassiveCheckResult) SetErrors(v []VapiStdLocalizableMessage)`
+
+SetErrors sets Errors field to given value.
+
+
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

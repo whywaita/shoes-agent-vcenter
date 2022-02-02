@@ -1,0 +1,59 @@
+# VapiStdErrorsErrorType
+
+## Enum
+
+
+* `ERROR` (value: `"ERROR"`)
+
+* `ALREADY_EXISTS` (value: `"ALREADY_EXISTS"`)
+
+* `ALREADY_IN_DESIRED_STATE` (value: `"ALREADY_IN_DESIRED_STATE"`)
+
+* `CANCELED` (value: `"CANCELED"`)
+
+* `CONCURRENT_CHANGE` (value: `"CONCURRENT_CHANGE"`)
+
+* `FEATURE_IN_USE` (value: `"FEATURE_IN_USE"`)
+
+* `INTERNAL_SERVER_ERROR` (value: `"INTERNAL_SERVER_ERROR"`)
+
+* `INVALID_ARGUMENT` (value: `"INVALID_ARGUMENT"`)
+
+* `INVALID_ELEMENT_CONFIGURATION` (value: `"INVALID_ELEMENT_CONFIGURATION"`)
+
+* `INVALID_ELEMENT_TYPE` (value: `"INVALID_ELEMENT_TYPE"`)
+
+* `INVALID_REQUEST` (value: `"INVALID_REQUEST"`)
+
+* `NOT_ALLOWED_IN_CURRENT_STATE` (value: `"NOT_ALLOWED_IN_CURRENT_STATE"`)
+
+* `NOT_FOUND` (value: `"NOT_FOUND"`)
+
+* `OPERATION_NOT_FOUND` (value: `"OPERATION_NOT_FOUND"`)
+
+* `RESOURCE_BUSY` (value: `"RESOURCE_BUSY"`)
+
+* `RESOURCE_IN_USE` (value: `"RESOURCE_IN_USE"`)
+
+* `RESOURCE_INACCESSIBLE` (value: `"RESOURCE_INACCESSIBLE"`)
+
+* `SERVICE_UNAVAILABLE` (value: `"SERVICE_UNAVAILABLE"`)
+
+* `TIMED_OUT` (value: `"TIMED_OUT"`)
+
+* `UNABLE_TO_ALLOCATE_RESOURCE` (value: `"UNABLE_TO_ALLOCATE_RESOURCE"`)
+
+* `UNAUTHENTICATED` (value: `"UNAUTHENTICATED"`)
+
+* `UNAUTHORIZED` (value: `"UNAUTHORIZED"`)
+
+* `UNEXPECTED_INPUT` (value: `"UNEXPECTED_INPUT"`)
+
+* `UNSUPPORTED` (value: `"UNSUPPORTED"`)
+
+* `UNVERIFIED_PEER` (value: `"UNVERIFIED_PEER"`)
+
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
